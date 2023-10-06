@@ -124,5 +124,5 @@ class MakeBlosum:
         self.calcExpectedSubs()
         self.calcOddsRatio()
         self.calcLogOddRatio()
-        print "\nBLOSUM has completed!"
+        print("\nBLOSUM has completed!")
 

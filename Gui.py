@@ -1,5 +1,5 @@
 from MakeBlosum import *
-from Tkinter import *
+from tkinter import *
 
 window = Tk()
 window.title("BLOSSUM APPLICATION")
