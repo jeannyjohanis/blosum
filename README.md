@@ -1,6 +1,9 @@
 # blosum
 
 How to run the program:
+
+run python3 Gui.py
+
 User clicks “START” button in the GUI. User will then need to type in the name of the file containing sequences. The program will give outputs of 2D matrix of the sequences, frequency of amino acid substitutions, probabilities of amino acid substitutions, expected substitution rates, odds ratio and log of odds ratios with 20 rows and 9 columns and output of 1D matrix of marginal probabilities of each amino acid with 20 rows and 1 columns.
 
 What the program does:
